@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Felipe and I'm a Web Development C#, from Brazil</h4>
+<h3 align="left">Hi 👋! My name is Felipe and I'm a Web Development C#, from Brazil</h3>
 
 ###
 
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yfelipesoares/yfelipesoares/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lima300/lima300/output/snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 ###
