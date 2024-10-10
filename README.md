@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Felipe and I'm a Web Development C#, from Brazil</h3>
+<h3 align="left">Hi 👋! My name is Felipe and i'm a Web Development C#, from Brazil</h3>
 
 ###
 
