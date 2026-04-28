@@ -1,4 +1,4 @@
-<h3 align="center">Olá👋!Sou Felipe e estou estudando Web Development C#! Brazil ♥ </h3>
+<h3 align="center">Olá👋!Sou Felipe e estou estudando Web Development C#! </h3>
 
 ###
 
